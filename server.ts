@@ -103,6 +103,142 @@ if (count.count === 0) {
       image: "https://m.media-amazon.com/images/I/51p4-eX4g3L._SX679_.jpg",
       rating: 4.5,
       reviews: 9000
+    },
+    // New Products
+    {
+      title: "Boat Airdopes 141 Bluetooth Earbuds",
+      description: "13mm Drivers, 42H Playtime, Beast Mode, ENx Tech, ASAP Charge, IWP, IPX4 Water Resistance, Smooth Touch Controls.",
+      price: 1299,
+      category: "Electronics",
+      image: "https://m.media-amazon.com/images/I/51J5T5s924L._SX679_.jpg",
+      rating: 3.9,
+      reviews: 15000
+    },
+    {
+      title: "HP 15s Laptop (i5, 16GB RAM, 512GB SSD)",
+      description: "12th Gen Intel Core i5-1235U, 15.6-inch (39.6 cm) FHD, 16GB DDR4, 512GB SSD, Intel Iris Xe Graphics, Backlit KB, Dual Speakers.",
+      price: 58990,
+      category: "Laptops",
+      image: "https://m.media-amazon.com/images/I/71f5Eu5lJSL._SX679_.jpg",
+      rating: 4.3,
+      reviews: 850
+    },
+    {
+      title: "Sony 55-inch 4K Smart TV",
+      description: "4K Ultra HD Smart LED Google TV KD-55X74L | 4K Processor X1 | Live Color | 4K X-Reality PRO | Motionflow XR 100.",
+      price: 62999,
+      category: "Electronics",
+      image: "https://m.media-amazon.com/images/I/81wxS8b4yIL._SX679_.jpg",
+      rating: 4.8,
+      reviews: 2100
+    },
+    {
+      title: "Men’s Casual Shirt (Cotton, Blue)",
+      description: "100% Cotton, Regular Fit, Long Sleeve, Button Down Collar, Machine Wash.",
+      price: 799,
+      category: "Fashion",
+      image: "https://m.media-amazon.com/images/I/71eUwDk8z+L._SX679_.jpg",
+      rating: 4.0,
+      reviews: 450
+    },
+    {
+      title: "Women’s Kurti (Printed, Rayon)",
+      description: "Rayon Fabric, Printed Pattern, 3/4 Sleeve, Round Neck, Calf Length.",
+      price: 699,
+      category: "Fashion",
+      image: "https://m.media-amazon.com/images/I/61X7a9iXy5L._SX679_.jpg",
+      rating: 4.2,
+      reviews: 320
+    },
+    {
+      title: "Levi’s Men’s Jeans",
+      description: "Slim Fit, Mid Rise, Stretchable, 5 Pocket Styling, Zip Fly with Button Closure.",
+      price: 1999,
+      category: "Fashion",
+      image: "https://m.media-amazon.com/images/I/61D4+1qV9RL._SX679_.jpg",
+      rating: 4.4,
+      reviews: 1100
+    },
+    {
+      title: "Titan Analog Watch",
+      description: "Round Dial, Leather Strap, Water Resistant, Quartz Movement, 2 Years Warranty.",
+      price: 2299,
+      category: "Fashion",
+      image: "https://m.media-amazon.com/images/I/71Kx6rgmlRS._SX679_.jpg",
+      rating: 4.5,
+      reviews: 980
+    },
+    {
+      title: "Prestige Pressure Cooker (5L)",
+      description: "Svachh Deluxe Alpha 5.0 Litre Stainless Steel Pressure Outer Lid Cooker with Unique Deep Lid for Spillage Control.",
+      price: 1499,
+      category: "Home & Kitchen",
+      image: "https://m.media-amazon.com/images/I/61+mTzF6eKL._SX679_.jpg",
+      rating: 4.3,
+      reviews: 5600
+    },
+    {
+      title: "Pigeon Induction Stove",
+      description: "Cruise 1800 watt Induction Cooktop with Crystal Glass, 7 Segments LED Display, Auto Switch Off.",
+      price: 2199,
+      category: "Home & Kitchen",
+      image: "https://m.media-amazon.com/images/I/51R4FILjivL._SX679_.jpg",
+      rating: 4.1,
+      reviews: 8900
+    },
+    {
+      title: "Milton Water Bottle (1L)",
+      description: "Thermosteel Flip Lid Flask, 1000ml, Silver | 24 Hours Hot and Cold.",
+      price: 299,
+      category: "Home & Kitchen",
+      image: "https://m.media-amazon.com/images/I/61n1+1+1+1L._SX679_.jpg",
+      rating: 4.6,
+      reviews: 12000
+    },
+    {
+      title: "Double Bed Bedsheet Set",
+      description: "100% Cotton Double Bedsheet with 2 Pillow Covers, 144 TC, Floral Print.",
+      price: 899,
+      category: "Home & Kitchen",
+      image: "https://m.media-amazon.com/images/I/91+1+1+1+1L._SX679_.jpg",
+      rating: 4.2,
+      reviews: 340
+    },
+    {
+      title: "LG 260L Refrigerator",
+      description: "3 Star Frost Free Double Door Refrigerator (GL-S292RDSY, Dazzle Steel, Convertible).",
+      price: 28990,
+      category: "Home & Kitchen",
+      image: "https://m.media-amazon.com/images/I/61+1+1+1+1L._SX679_.jpg",
+      rating: 4.4,
+      reviews: 150
+    },
+    {
+      title: "Atomic Habits",
+      description: "An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear.",
+      price: 550,
+      category: "Books",
+      image: "https://m.media-amazon.com/images/I/91bYsX41DVL._SY466_.jpg",
+      rating: 4.8,
+      reviews: 54000
+    },
+    {
+      title: "The Psychology of Money",
+      description: "Timeless lessons on wealth, greed, and happiness by Morgan Housel.",
+      price: 399,
+      category: "Books",
+      image: "https://m.media-amazon.com/images/I/71g2ednj0JL._SY466_.jpg",
+      rating: 4.7,
+      reviews: 42000
+    },
+    {
+      title: "Ikigai: The Japanese Secret to a Long and Happy Life",
+      description: "Discover the Japanese secret to a long and happy life with this international bestseller.",
+      price: 450,
+      category: "Books",
+      image: "https://m.media-amazon.com/images/I/81l3rZK4lnL._SY466_.jpg",
+      rating: 4.6,
+      reviews: 31000
     }
   ];
 

@@ -99,7 +99,7 @@ function App() {
           <>
             {/* Categories / Filters */}
             <div className="flex gap-4 mb-8 overflow-x-auto pb-4 scrollbar-hide">
-              {['All', 'Mobiles', 'Electronics', 'Fashion', 'Laptops'].map((cat) => (
+              {['All', 'Mobiles', 'Electronics', 'Fashion', 'Laptops', 'Home & Kitchen', 'Books'].map((cat) => (
                 <button
                   key={cat}
                   onClick={() => setSelectedCategory(cat)}
